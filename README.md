@@ -1,3 +1,6 @@
+![Bank Loan Dashboard Screenshot](Assets/dashboard-overview.png)
+
+
 # 🏦 Bank Loan Report – Power BI Dashboard Project
 
 ## 📘 Overview
